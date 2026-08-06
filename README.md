@@ -3,7 +3,7 @@
 ## Informations personnelles
 
 - Nom et prénom : ANDONG ANGHO Edna Christelle
-- Filière : Génie Informatique
+- Filière : Intelligence Artificielle
 - Niveau d'études : Licence 1
 
 ## Définition du DevOps
